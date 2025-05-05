@@ -1,0 +1,1 @@
+Resource_group = ["emv1","emv2","emv3"]
