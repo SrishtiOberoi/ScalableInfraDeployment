@@ -1,4 +1,4 @@
 variable "Resource_group" {
     type = list(string)
-   default = ["srishti","srishti2","srishti3"]
+   default = ["RG1","RG2","RG3"]
 }
